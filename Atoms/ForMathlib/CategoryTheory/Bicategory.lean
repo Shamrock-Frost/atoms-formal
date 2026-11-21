@@ -1,0 +1,8 @@
+import Atoms.ForMathlib.CategoryTheory.Bicategory.Adjunction
+import Atoms.ForMathlib.CategoryTheory.Bicategory.StrongTransEquivalence
+import Atoms.ForMathlib.CategoryTheory.Bicategory.Biequivalence
+import Atoms.ForMathlib.CategoryTheory.Bicategory.Coherence
+import Atoms.ForMathlib.CategoryTheory.Bicategory.Functor
+import Atoms.ForMathlib.CategoryTheory.Bicategory.Structural
+import Atoms.ForMathlib.CategoryTheory.Bicategory.TerminalObject
+import Atoms.ForMathlib.CategoryTheory.Bicategory.Truncation

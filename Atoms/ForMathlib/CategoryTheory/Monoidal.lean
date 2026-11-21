@@ -1,0 +1,5 @@
+import Atoms.ForMathlib.CategoryTheory.Monoidal.Cartesian
+import Atoms.ForMathlib.CategoryTheory.Monoidal.Closed
+import Atoms.ForMathlib.CategoryTheory.Monoidal.DayConvolution
+import Atoms.ForMathlib.CategoryTheory.Monoidal.ExternalProduct
+import Atoms.ForMathlib.CategoryTheory.Monoidal.PushoutProduct

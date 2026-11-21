@@ -1,0 +1,13 @@
+import Atoms.Diagrammatic.Pasting.Basic
+import Atoms.Diagrammatic.Pasting.Boundary
+import Atoms.Diagrammatic.Pasting.CylinderDiagram
+import Atoms.Diagrammatic.Pasting.Dual
+import Atoms.Diagrammatic.Pasting.Invertors
+import Atoms.Diagrammatic.Pasting.Paste
+import Atoms.Diagrammatic.Pasting.Restriction
+import Atoms.Diagrammatic.Pasting.Reverse
+import Atoms.Diagrammatic.Pasting.SubsetRestriction
+import Atoms.Diagrammatic.Pasting.Substitution
+import Atoms.Diagrammatic.Pasting.Unitors
+import Atoms.Diagrammatic.Pasting.Units
+import Atoms.Diagrammatic.Pasting.Within

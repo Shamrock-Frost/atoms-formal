@@ -1,0 +1,7 @@
+import Atoms.TestCategory.Simplicial.Contraction
+import Atoms.TestCategory.Simplicial.KanBasicLocalizer
+import Atoms.TestCategory.Simplicial.NerveResolution
+import Atoms.TestCategory.Simplicial.OrdinaryNerve
+import Atoms.TestCategory.Simplicial.OrdinaryNerveElements
+import Atoms.TestCategory.Simplicial.RightAdjointWeakness
+import Atoms.TestCategory.Simplicial.SimplexTest

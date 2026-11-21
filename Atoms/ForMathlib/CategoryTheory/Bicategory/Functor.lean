@@ -1,0 +1,2 @@
+import Atoms.ForMathlib.CategoryTheory.Bicategory.Functor.PathComp
+import Atoms.ForMathlib.CategoryTheory.Bicategory.Functor.StrictPseudofunctor

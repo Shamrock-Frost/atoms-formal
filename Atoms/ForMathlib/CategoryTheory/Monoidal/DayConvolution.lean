@@ -1,0 +1,5 @@
+import Atoms.ForMathlib.CategoryTheory.Monoidal.DayConvolution.Basic
+import Atoms.ForMathlib.CategoryTheory.Monoidal.DayConvolution.Join
+import Atoms.ForMathlib.CategoryTheory.Monoidal.DayConvolution.JoinSlice
+import Atoms.ForMathlib.CategoryTheory.Monoidal.DayConvolution.JoinLifting
+import Atoms.ForMathlib.CategoryTheory.Monoidal.DayConvolution.Types

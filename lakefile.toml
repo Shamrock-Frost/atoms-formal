@@ -1,0 +1,25 @@
+name = "Atoms"
+defaultTargets = ["Atoms", "Serialize"]
+license = "Apache-2.0"
+
+[leanOptions]
+autoImplicit = false
+relaxedAutoImplicit = false
+weak.linter.mathlibStandardSet = true
+weak.linter.style.header = false
+weak.linter.style.longFile = 1500
+
+[[require]]
+name = "mathlib"
+scope = "leanprover-community"
+rev = "v4.33.1"
+
+[[lean_lib]]
+name = "Atoms"
+globs = ["Atoms", "Atoms.Diagrammatic.*", "Atoms.Doctrine.*", "Atoms.ForMathlib.*",
+  "Atoms.Homotopical.*", "Atoms.Molecule.*", "Atoms.Shape.*", "Atoms.TestCategory.*"]
+
+[[lean_lib]]
+name = "Serialize"
+roots = ["Atoms.Serialize"]
+globs = ["Atoms.Serialize.*"]

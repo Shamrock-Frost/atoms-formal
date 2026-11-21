@@ -1,0 +1,9 @@
+import Atoms.TestCategory.BasicLocalizer.Basic
+import Atoms.TestCategory.BasicLocalizer.FormalCofibration
+import Atoms.TestCategory.BasicLocalizer.Generation
+import Atoms.TestCategory.BasicLocalizer.GrothendieckConstruction
+import Atoms.TestCategory.BasicLocalizer.Homotopy
+import Atoms.TestCategory.BasicLocalizer.HomotopyCocartesian
+import Atoms.TestCategory.BasicLocalizer.Opposite
+import Atoms.TestCategory.BasicLocalizer.ProperFunctor
+import Atoms.TestCategory.BasicLocalizer.SmoothFunctor

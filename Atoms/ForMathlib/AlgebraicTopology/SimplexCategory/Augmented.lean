@@ -1,0 +1,5 @@
+import Atoms.ForMathlib.AlgebraicTopology.SimplexCategory.Augmented.Decalage
+import Atoms.ForMathlib.AlgebraicTopology.SimplexCategory.Augmented.ExtraDegeneracy
+import Atoms.ForMathlib.AlgebraicTopology.SimplexCategory.Augmented.ExtraDegeneracyExtension
+import Atoms.ForMathlib.AlgebraicTopology.SimplexCategory.Augmented.Injective
+import Atoms.ForMathlib.AlgebraicTopology.SimplexCategory.Augmented.Monoidal

@@ -1,0 +1,9 @@
+import Atoms.Homotopical.Regular.Completion
+import Atoms.Homotopical.Regular.Descent
+import Atoms.Homotopical.Regular.ElementsRestriction
+import Atoms.Homotopical.Regular.Presheaf
+import Atoms.Homotopical.Regular.Products
+import Atoms.Homotopical.Regular.Rigid
+import Atoms.Homotopical.Regular.Saturation
+import Atoms.Homotopical.Regular.Slice
+import Atoms.Homotopical.Regular.Union

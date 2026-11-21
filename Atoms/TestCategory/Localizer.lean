@@ -1,0 +1,11 @@
+import Atoms.TestCategory.Localizer.Basic
+import Atoms.TestCategory.Localizer.CylinderCompleteness
+import Atoms.TestCategory.Localizer.FibrantProductWeakness
+import Atoms.TestCategory.Localizer.MinimalBaseChange
+import Atoms.TestCategory.Localizer.ModelStructure
+import Atoms.TestCategory.Localizer.ProperTransfer
+import Atoms.TestCategory.Localizer.Regular
+import Atoms.TestCategory.Localizer.RepresentableCompletion
+import Atoms.TestCategory.Localizer.RepresentableRecognition
+import Atoms.TestCategory.Localizer.RestrictionQuillen
+import Atoms.TestCategory.Localizer.TestLocalizer

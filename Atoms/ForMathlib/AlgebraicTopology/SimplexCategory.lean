@@ -1,0 +1,3 @@
+import Atoms.ForMathlib.AlgebraicTopology.SimplexCategory.Augmented
+import Atoms.ForMathlib.AlgebraicTopology.SimplexCategory.Basic
+import Atoms.ForMathlib.AlgebraicTopology.SimplexCategory.Reedy

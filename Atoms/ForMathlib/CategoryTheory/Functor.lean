@@ -1,0 +1,3 @@
+import Atoms.ForMathlib.CategoryTheory.Functor.DiscreteFibration
+import Atoms.ForMathlib.CategoryTheory.Functor.FullyFaithful
+import Atoms.ForMathlib.CategoryTheory.Functor.OpenImmersion
