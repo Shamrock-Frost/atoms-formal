@@ -1,6 +1,8 @@
 name = "Atoms"
 defaultTargets = ["Atoms", "Serialize"]
 license = "Apache-2.0"
+description = "Lean 4 formalization of higher category theory on the category of atoms: diagrammatic sets and their model structures"
+keywords = ["math", "category-theory", "higher-category-theory", "diagrammatic-sets", "model-categories"]
 
 [leanOptions]
 autoImplicit = false
